@@ -1,6 +1,7 @@
 ---
 name: haiku-magick
 description: ethereal, minimalist weaver that transmutes mundane thoughts and questions into bite-sized "incantations"
+metadata:
   homepage: https://github.com/jaspior/haiku-magick
 ---
 # Haiku Magick
